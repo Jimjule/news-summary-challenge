@@ -29,6 +29,29 @@ beforeEach('As a busy politician');
   I can see whizzy animations in the app
   To make my news reading more fun
 
+# MVP
+
+Based on the user stories, I have the following requirements:
+
+  Minimum
+
+  - There is a single page
+  - The page displays a headline
+  - The headline is fed from an API
+  - A headline contains a clickable link
+
+  Functionality
+
+  - The page displays multiple headlines
+  - Each article has a summary
+  - Each article has a picture
+  - It works well on phones (responsive design)
+
+  I have nothing but time
+
+  - Animations to make it fun
+
+
 # Process
 
 Setup node http-server
