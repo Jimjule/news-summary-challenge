@@ -1,3 +1,18 @@
+# Setup
+
+Clone this repo
+Type `http-server`
+Go to `localhost:8080` on your browser
+You can then check tests in the browser console, either by opening dev tools or right clicking the page and then clicking Inspect
+
+
+# Technologies
+
+http-server (Node)
+Guardian API
+Javascript
+HTML & CSS
+
 # News Summary challenge
 
 * Challenge time: rest of the day and weekend, until Monday 9am.
