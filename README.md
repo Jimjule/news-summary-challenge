@@ -1,10 +1,9 @@
 # Installation & Tests
 
-Clone this repo
-Type `http-server` in console
-Go to `localhost:8080` on your browser
-
-You can then check tests in the browser console, either by opening dev tools or right clicking the page and then clicking Inspect
+- Clone this repo
+- Type `http-server` in console
+- Go to `localhost:8080` on your browser
+- You can then check tests in the browser console, either by opening dev tools or right clicking the page and then clicking Inspect
 
 
 # Technologies
